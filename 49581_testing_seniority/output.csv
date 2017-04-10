@@ -1,0 +1,130 @@
+,c_employment_title,c_employment_working,l_production,l_business,l_expert,l_manager,l_executive,label,sub_label
+0,Growth Marketing Manager - Product Expansion,2.0,1,0,0,1,0,Management,Manager
+1,Product Marketing Manager - SMB & Consumer,2.0,1,0,0,1,0,Management,Manager
+2,Product Marketing Analyst,2.0,1,0,0,0,0,Production,Intermediate
+3,Marketing Manager,1.0,0,0,0,1,0,Management,Supervisor
+4,Associate Director of Public Relations,3.0,0,0,0,0,1,Executive,Executive Vice President
+5,Licensing Intern,1.0,1,0,0,0,0,Production,Entry
+6,Senior Marketing Manager,2.0,0,0,0,1,0,Management,Manager
+7,Director of Marketing,1.0,0,0,0,0,1,Executive,Vice President
+8,Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+9,"Campaign Manager, Dell",4.0,0,0,0,1,0,Management,Group Manager
+10,"Customer Business Analyst, HP",5.0,0,1,0,0,0,Business Support,Lead
+11,Sales and Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+12,Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+13,"Senior Manager, Growth Product",1.0,1,0,0,1,0,Management,Supervisor
+14,Integrated Marketing Manager,2.0,0,0,0,1,0,Management,Manager
+15,Product Marketing Manager,2.0,1,0,0,1,0,Management,Manager
+16,Acquisition Marketing Manager,4.0,0,0,0,1,0,Management,Group Manager
+17,Writer,1.0,0,0,0,0,0,Unspecified,
+18,Program Assistant,1.0,0,0,0,0,0,Unspecified,
+19,Communications Fellow,1.0,0,0,0,0,0,Unspecified,
+20,Research Assistant,1.0,0,0,0,0,0,Unspecified,
+21,"Program Assistant, Environmental Health",1.0,0,0,0,0,0,Unspecified,
+22,Photography Intern,1.0,1,0,0,0,0,Production,Entry
+23,Growth Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+24,Growth Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+25,"Product Marketing Manager, Feed Ads",2.0,1,0,0,1,0,Management,Manager
+26,Product Growth Manager - Marketing Partnerships,4.0,1,0,0,1,0,Management,Group Manager
+27,Business Development Manager,3.0,0,1,0,1,0,Management,Senior Manager
+28,Associate Manager - Online Channels and Analytics,2.0,0,0,0,1,0,Management,Manager
+29,"Global Product Marketing Manager, Google Maps",2.0,1,0,0,1,0,Management,Manager
+30,"Senior Account Manager, Online Sales",6.0,0,0,0,1,0,Management,Senior Group Manager
+31,"Senior Executive Marketing, Vh1",1.0,0,0,0,0,1,Executive,Vice President
+32,"Brand & Product Manager, Sony Playstation",2.0,1,0,0,1,0,Management,Manager
+33,Senior Marketing Manager,6.0,0,0,0,1,0,Management,Senior Group Manager
+34,Director of Marketing,3.0,0,0,0,0,1,Executive,Executive Vice President
+35,Brand Manager,1.0,0,0,0,1,0,Management,Supervisor
+36,Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+37,Senior Buyer/Planner,6.0,0,0,0,0,0,Unspecified,
+38,Buyer/Planner,3.0,0,0,0,0,0,Unspecified,
+39,Associate Account Manager,1.0,0,0,0,1,0,Management,Supervisor
+40,Congrssional Aide for Tom Lantos 12th District,1.0,0,0,0,0,0,Unspecified,
+41,"Brand + Product Marketing Lead - Digital Video, Creator and Publisher Products",2.0,1,0,0,0,0,Production,Intermediate
+42,"Director, Marketing Communications, Digital Content and Partnerships",3.0,0,0,0,0,1,Executive,Executive Vice President
+43,Brand Partnerships / Digital Content Packaging,3.0,0,0,0,0,0,Unspecified,
+44,Account Executive,2.0,0,0,0,0,1,Executive,Senior Vice President
+45,Account Manager,3.0,0,0,0,1,0,Management,Senior Manager
+46,Sr. Mobile Product Marketing Manager,3.0,1,0,0,1,0,Management,Senior Manager
+47,Senior Associate Brand Manager,2.0,0,0,0,1,0,Management,Manager
+48,Associate Marketing Manager - MBA Intern,1.0,1,0,0,1,0,Management,Supervisor
+49,Associate Brand Manager,1.0,0,0,0,1,0,Management,Supervisor
+50,Marketing Associate,3.0,0,0,0,0,0,Unspecified,
+51,Assurance Associate,1.0,0,0,0,0,0,Unspecified,
+52,Associate Product Manager,1.0,1,0,0,1,0,Management,Supervisor
+53,Marketing Coordinator,3.0,0,0,0,0,0,Unspecified,
+54,"Senior Manager, Growth Marketing",2.0,0,0,0,1,0,Management,Manager
+55,Senior Account Manager,1.0,0,0,0,1,0,Management,Supervisor
+56,Growth Marketing Manager,2.0,0,0,0,1,0,Management,Manager
+57,Digital Marketing Manager,1.0,0,0,0,1,0,Management,Supervisor
+58,Co Founder,2.0,0,0,0,0,0,Unspecified,
+59,Product Manager,3.0,1,0,0,1,0,Management,Senior Manager
+60,Summer Trainee,1.0,0,0,0,0,0,Unspecified,
+61,"Senior Product Marketing Manager, Consumer (Messaging Platform)",1.0,1,0,0,1,0,Management,Supervisor
+62,"Senior Product Marketing Manager, LinkedIn Sales Solutions",2.0,1,0,0,1,0,Management,Manager
+63,"Online Product Marketing Manager, LinkedIn Sales Solutions",2.0,1,0,0,1,0,Management,Manager
+64,Global Sr. Social Media Strategy Lead,2.0,0,0,0,0,0,Unspecified,
+65,Senior Product Marketing Manager - Origin.com,1.0,1,0,0,1,0,Management,Supervisor
+66,Product Marketing Manager - Origin.com,2.0,1,0,0,1,0,Management,Manager
+67,Performance Based Marketing Specialist - Origin.com,2.0,0,0,1,0,0,Professional Expert,Intermediate
+68,Marketing Coordinator - Origin.com,1.0,0,0,0,0,0,Unspecified,
+69,Account Executive - Analyst and Public Relations,1.0,0,0,0,0,1,Executive,Vice President
+70,Account Coordinator - Analyst and Public Relations,2.0,0,0,0,0,0,Unspecified,
+71,New Business and Marketing Intern,1.0,1,1,0,0,0,Business Support,Entry
+72,Product Marketing Manager,2.0,1,0,0,1,0,Management,Manager
+73,Marketing Lead | Advisor,3.0,0,0,0,0,0,Unspecified,
+74,"Account Manager, Large Customer Sales",1.0,0,0,0,1,0,Management,Supervisor
+75,"Account Strategist, Small & Medium Business Sales",3.0,0,1,0,0,0,Business Support,Senior
+76,Brand Strategist,0.0,0,0,0,0,0,Unspecified,
+77,"Team Lead, Product Marketing, Travel",3.0,1,0,0,0,0,Production,Senior
+78,Senior Product Marketing Manager,3.0,1,0,0,1,0,Management,Senior Manager
+79,Product Marketing Manager,2.0,1,0,0,1,0,Management,Manager
+80,"Industry Marketing Manager, Financial Services",1.0,0,0,0,1,0,Management,Supervisor
+81,"Account Planner, Travel",3.0,0,0,0,0,0,Unspecified,
+82,"Associate Sales Development Manager, Time Magazine and Time.com",2.0,0,0,0,1,0,Management,Manager
+83,"Public Relations Assistant, Real Simple",1.0,0,0,0,0,0,Unspecified,
+84,"Group Manager, Growth and Monetization, Dropbox Pro",3.0,0,0,0,1,0,Management,Senior Manager
+85,Product Marketing Manager - Developer Tools,2.0,1,0,0,1,0,Management,Manager
+86,Marketing Campaigns Manager,2.0,0,0,0,1,0,Management,Manager
+87,Marketing Analyst,1.0,0,0,0,0,0,Unspecified,
+88,AdWords Account Strategist,1.0,0,0,0,0,0,Unspecified,
+89,Product Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+90,Academic Theme Associate,1.0,0,0,0,0,0,Unspecified,
+91,Product Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+92,"Product Marketing Manager, Creative Cloud",1.0,1,0,0,1,0,Management,Supervisor
+93,Senior Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+94,Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+95,Associate Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+96,Marketing Coordinator,2.0,0,0,0,0,0,Unspecified,
+97,"Client Staff Assistant (Healthcare, Technology)",2.0,0,0,0,0,0,Unspecified,
+98,Public Relations Intern,1.0,1,0,0,0,0,Production,Entry
+99,Media Relations Intern,2.0,1,0,0,0,0,Production,Intermediate
+100,Social Marketing & Rich Media Intern,1.0,1,0,0,0,0,Production,Entry
+101,Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+102,Communications Intern,1.0,1,0,0,0,0,Production,Entry
+103,Teacher's Assistant,1.0,0,0,0,0,0,Unspecified,
+104,Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+105,Product Marketing Manager,2.0,1,0,0,1,0,Management,Manager
+106,Associate Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+107,Marketing Rotational Development Program - Associate,3.0,0,0,0,0,0,Unspecified,
+108,Business Analyst Intern,1.0,1,1,0,0,0,Business Support,Entry
+109,Sales & Product Marketing Intern,1.0,1,0,0,0,0,Production,Entry
+110,Business Development Intern,1.0,1,1,0,0,0,Business Support,Entry
+111,Monetization Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+112,Consumer Product Marketing Manager,4.0,1,0,0,1,0,Management,Group Manager
+113,Associate Marketing Manager,2.0,0,0,0,1,0,Management,Manager
+114,Associate Brand Manager,3.0,0,0,0,1,0,Management,Senior Manager
+115,Merchandise Planning Analyst,2.0,0,0,0,0,0,Unspecified,
+116,Product Marketing,4.0,1,0,0,0,0,Production,Lead
+117,Product Marketing,1.0,1,0,0,0,0,Production,Entry
+118,Product Marketing,3.0,1,0,0,0,0,Production,Senior
+119,Lead Marketing Coordinator,2.0,0,0,0,0,0,Unspecified,
+120,"Senior Product Marketing Manager, Growth",1.0,1,0,0,1,0,Management,Supervisor
+121,Senior Product Marketing Manager,1.0,1,0,0,1,0,Management,Supervisor
+122,"Product Marketing Manager, Audience & Lifecycle",2.0,1,0,0,1,0,Management,Manager
+123,"Marketing Manager, Small Business",1.0,0,1,0,1,0,Management,Supervisor
+124,Associate Marketing Manager,2.0,0,0,0,1,0,Management,Manager
+125,"Marketing Manager, Bartab",3.0,0,0,0,1,0,Management,Senior Manager
+126,"Senior Events Coordinator, Third Edition",1.0,0,0,0,0,0,Unspecified,
+127,Georgetown Collegiate Ambassador (Mr. Youth),1.0,0,0,0,0,0,Unspecified,
+128,Marketing & Music Programming Intern,1.0,1,0,0,0,0,Production,Entry

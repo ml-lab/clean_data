@@ -50,7 +50,7 @@ class gls_preprocess:
         
 #### split data to ["day","month","year"]
     for i in range(len(data)):
-        if str(data[i]) == "nan":
+        if str(data[i]) == "nan" || "Nan":
             tem_1 = ["wrong_date"]
         else:
             tem_1 = re.sub(r'[^a-zA-Z0-9]', ' ',data[i]).lower().split(" ")
@@ -1379,5 +1379,5 @@ class gls_preprocess:
 
 
 
-x = gls_preprocess('01 mar 2016,01 01 2016,mar 01 06,current,21 06', None,None,None,None,None,None)
+x = gls_preprocess('01 march 2016', None,None,None,None,None,None)
 print("Result: ", x.gls_date())

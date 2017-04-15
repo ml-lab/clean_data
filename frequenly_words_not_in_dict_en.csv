@@ -1,90 +1,90 @@
-,word,frequency,suggest_word,score,
-0,EMEA,795,EMEA,200,
-1,Dba,583,Database administrators ,200,
-2,CRM,558,Customer relationship management,200,
-3,UI,532,User interface,200,
-4,Online,526,Online,200,
-5,3D,450,3D,200,
-7,ndash,431,ndash,200,
-8,RampD,343,Ram,200,
-10,UX,339,User experience design,200,
-11,HSE,304,HSE,200,
-12,Admin,291,administrator,200,
-13,Subsea,279,Subsea,200,
-14,PreSales,279,PreSales,200,
-15,CTO,249,chief technology officer ,200,
-16,PreSales,247,Presales,200,
-17,SQL,243,SQL,200,
-18,iOS,243,iOS,200,
-19,de,231,DE,200,
-20,Snr,228,Senior,200,
-21,PHP,219,PHP,200,
-22,VFX,213,visual effects,200,
-24,APAC,203,APAC,200,
-25,Qa,194,QA,200,
-26,FrontEnd,182,FrontEnd,200,94
-27,Telecom,178,Telecoms,200,
-28,BW,174,BE,200,
-30,ABAP,170,Advanced Business Application Programming,200,
-31,Centre,168,Center,200,
-32,FX,163,FX,200,
-33,SAS,156,ASS,200,
-34,Cisco,155,Cisco,200,
-35,ERP,148,Enterprise resource planning ,200,
-38,Frontend,137,Frontend,200,
-39,Helpdesk,133,Helpdesk,200,94
-40,FICO,132,FICO,200,
-41,SME,128,TIME,200,
-42,Salesforcecom,121,Salesforcecom,200,
-43,IP,118,IP,200,
-44,Pre,117,Pre,200,
-45,AVP,111,AVP,200,
-46,J2EE,108,J2EE,200,
-47,SVP,106,SVP,200,
-49,PMO,103,project management office,200,
-50,CSV,103,CSV,200,
-51,Citrix,95,Citric,200,
-52,iPhone,95,iPhone,200,
-53,ETL,93,"Extract, Transform and Load",200,
-54,UIUX,88,UIUX,200,
-55,ICT,87,ICT,200,
-57,QC,84,QC,200,
-60,3d,80,3d,200,
-61,FI,80,FI,200,
-62,Virtualization,79,Visualization,200,
-63,Backend,78,Backend,200,
-64,Apps,78,application,200,
-65,App,76,application,200,
-66,MySQL,75,MySQL,200,
-67,Ui,74,User interface,200,
-68,SOA,74,service-oriented architecture,200,
-69,Onsite,73,Onsite,200,
-70,NOC,71,network operations center,200,
-71,SDET,71,Software Development Engineer in Test,200,
-72,Gameplay,70,Gameplay,200,94
-73,2D,70,2D,200,
-74,ISU,69,International Skating Union,200,
-75,Sw,69,Sw,200,
-76,Ux,67,Ux,200,
-77,SMB,65,Server Message Block,200,
-79,SCM,64,supply chain management,200,
-80,SQA,62,SQA,200,
-81,SEO,62,Search engine optimization,200,
-82,CIO,62,CIO,200,
-83,NDT,62,Nondestructive testing,200,
-84,Siebel,61,Sibel,200,
-85,Dba,61,Eba,200,
-86,Responsable,60,Responsable,200,
-89,GMP,59,Good Manufacturing Practice ,200,
-90,Rampd,58,Rampd,200,
-91,QP,57,QP,200,
-92,CMC,57,CM,200,
-93,Vfx,57,Vfx,200,
-94,HRIS,57,HRS,200,
-95,Workover,56,Workover,200,
-96,SDE,55,SDE,200,
-97,Enginner,54,Engineers,200,
-98,VMware,54,VMware,200,
-103,ASIC,52,ASIC,200,
-104,MDM,50,Mobile device management,200,
-105,OBIEE,50,Oracle Business Intelligence Enterprise Edition ,200,
+,word,frequency,suggest_word,score
+0,EMEA,795,EM EA,89
+1,DBA,583,DAB,67
+2,CRM,558,CM,80
+3,UI,532,II,50
+4,Online,526,On line,92
+5,3D,450,3,67
+7,ndash,431,dash,89
+8,RampD,343,Ram Pd,55
+10,UX,339,IX,50
+11,HSE,304,SHE,67
+12,Admin,291,Armin,80
+13,Subsea,279,Subset,83
+14,PreSales,279,P Resales,71
+15,CTO,249,COT,67
+16,Presales,247,Resales,80
+17,SQL,243,SQ,80
+18,iOS,243,OS,80
+19,de,231,DE,0
+20,Snr,228,Sn,80
+21,PHP,219,PP,80
+22,VFX,213,VEX,67
+24,APAC,203,APACE,89
+25,Qa,194,QA,50
+26,FrontEnd,182,Front End,94
+27,Telecom,178,Telecoms,93
+28,BW,174,BE,50
+30,ABAP,170,ASAP,75
+31,Centre,168,Center,83
+32,FX,163,F,67
+33,SAS,156,ASS,67
+34,Cisco,155,Crisco,91
+35,ERP,148,REP,67
+38,Frontend,137,Fronted,93
+39,Helpdesk,133,Help desk,94
+40,FICO,132,FOCI,50
+41,SME,128,TIME,57
+42,Salesforcecom,121,Salesroom,73
+43,IP,118,PI,50
+44,Pre,117,Pr,80
+45,AVP,111,AV,80
+46,J2EE,108,JEEP,75
+47,SVP,106,SIP,67
+49,PMO,103,PM,80
+50,CSV,103,CS,80
+51,Citrix,95,Citric,83
+52,iPhone,95,i Phone,92
+53,ETL,93,TEL,67
+54,UIUX,88,LINUX,67
+55,ICT,87,CIT,67
+57,QAQC,84,QC,67
+60,3d,80,3,67
+61,FI,80,PHI,40
+62,Virtualization,79,Visualization,89
+63,Backend,78,Backed,92
+64,Apps,78,Alps,75
+65,App,76,Pp,40
+66,MySQL,75,Mys,50
+67,Ui,74,U,67
+68,SOA,74,SPA,67
+69,Onsite,73,Onside,83
+70,NOC,71,CON,33
+71,SDET,71,SET,86
+72,Gameplay,70,Game play,94
+73,2D,70,2,67
+74,ISU,69,USU,67
+75,Sw,69,SW,50
+76,Ux,67,U,67
+77,SMB,65,SOB,67
+79,SCM,64,CM,80
+80,SQA,62,SQ,80
+81,SEO,62,SO,80
+82,CIO,62,SO,40
+83,NDT,62,NET,67
+84,Siebel,61,Sibel,91
+85,Dba,61,Eba,67
+86,Responsable,60,Responsible,91
+89,GMP,59,GM,80
+90,Rampd,58,Ram pd,91
+91,QP,57,Q,67
+92,CMC,57,CM,80
+93,Vfx,57,Vax,67
+94,HRIS,57,HRS,86
+95,Workover,56,Work over,94
+96,SDE,55,TIDE,57
+97,Enginner,54,Eng inner,94
+98,VMware,54,Firmware,57
+103,ASIC,52,SIC,86
+104,MDM,50,MM,80
+105,OBIEE,50,OBIED,80

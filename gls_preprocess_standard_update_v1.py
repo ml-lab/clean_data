@@ -47,14 +47,20 @@ class gls_preprocess:
         data = data_ori.split(sep=',')
     else:
         data = list(data_ori)
+
+
         
-#### split data to ["day","month","year"]
+    #### split data to ["day","month","year"]
     for i in range(len(data)):
         if str(data[i]) == "nan":
             tem_1 = ["wrong_date"]
         else:
             tem_1 = re.sub(r'[^a-zA-Z0-9]', ' ',data[i]).lower().split(" ")
-#### standardize data
+
+        # Remove empty string
+        tem_1 = list(filter(None, tem_1))
+
+    #### standardize data
     # Length of data == 3 after split (mm-dd-yyyy)
         try:
             if len(tem_1) == 3:     
@@ -1386,5 +1392,5 @@ class gls_preprocess:
 
 
 
-#x = gls_preprocess(' 2008,01 01 2016,June 2010,current,21 06', None,None,None,None,None,None)
-# print("Result: ", x.gls_date())
+x = gls_preprocess('February 2002, 01-06-202, 1-1-015', None,None,None,None,None,None)
+print("Result: ", x.gls_date())

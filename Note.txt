@@ -1,0 +1,547 @@
+=================Working on chunk 1
+dataframe len 100000
+exeception_start 01-06-202
+exeception_start 01-11-200
+exeception_start 01-10-205
+Null title+ wrong date 41333
+Number of title to clean 58667
+58667
+=================Working on chunk 2
+dataframe len 100000
+exeception_end 01-02-204
+exeception_start 01-10-204
+exeception_end 01-03-201
+Null title+ wrong date 36422
+Number of title to clean 63578
+63578
+=================Working on chunk 3
+dataframe len 100000
+exeception_end 01-11-200
+exeception_start 01-10-202
+exeception_end 01-02-208
+Null title+ wrong date 35487
+Number of title to clean 64513
+64513
+=================Working on chunk 4
+dataframe len 100000
+exeception_start 01-08-202
+exeception_start 03-10-202
+exeception_end 01-10-202
+Null title+ wrong date 35478
+Number of title to clean 64522
+64522
+=================Working on chunk 5
+dataframe len 100000
+exeception_end 01-08-204
+exeception_start 01-02-200
+Null title+ wrong date 33848
+Number of title to clean 66152
+66152
+=================Working on chunk 6
+dataframe len 100000
+exeception_end 01-12-207
+exeception_end 01-05-207
+Null title+ wrong date 28393
+Number of title to clean 71607
+71607
+=================Working on chunk 7
+dataframe len 100000
+exeception_end 03-06-200
+exeception_end 01-07-209
+exeception_start 01-07-207
+exeception_end 01-08-204
+Null title+ wrong date 18986
+Number of title to clean 81014
+81014
+=================Working on chunk 8
+dataframe len 100000
+exeception_start 01-01-209
+exeception_start 01-05-200
+Null title+ wrong date 12972
+Number of title to clean 87028
+87028
+=================Working on chunk 9
+dataframe len 100000
+exeception_start 30-06-204
+exeception_end 01-05-204
+exeception_start 01-06-208
+exeception_end 01-06-207
+exeception_end 01-11-204
+Null title+ wrong date 6577
+Number of title to clean 93423
+93423
+=================Working on chunk 10
+dataframe len 100000
+exeception_start 01-03-207
+exeception_end 01-03-207
+Null title+ wrong date 6242
+Number of title to clean 93758
+93758
+=================Working on chunk 11
+dataframe len 100000
+exeception_start 01-03-200
+exeception_end 01-09-200
+exeception_end 01-11-205
+Null title+ wrong date 6931
+Number of title to clean 93069
+93069
+=================Working on chunk 12
+dataframe len 100000
+exeception_start 01-10-207
+exeception_start 09-01-200
+Null title+ wrong date 8610
+Number of title to clean 91390
+91390
+=================Working on chunk 13
+dataframe len 100000
+exeception_start 01-10-204
+Null title+ wrong date 10422
+Number of title to clean 89578
+89578
+=================Working on chunk 14
+dataframe len 100000
+exeception_start 01-04-204
+exeception_start 01-02-202
+Null title+ wrong date 9748
+Number of title to clean 90252
+90252
+=================Working on chunk 15
+dataframe len 100000
+exeception_start 01-10-209
+exeception_end 01-09-202
+Null title+ wrong date 9964
+Number of title to clean 90036
+90036
+=================Working on chunk 16
+dataframe len 100000
+Null title+ wrong date 10845
+Number of title to clean 89155
+89155
+=================Working on chunk 17
+dataframe len 100000
+exeception_end 11-01-202
+Null title+ wrong date 12864
+Number of title to clean 87136
+87136
+=================Working on chunk 18
+dataframe len 100000
+exeception_start 01-06-208
+exeception_start 01-05-207
+exeception_start 01-07-206
+exeception_start 01-09-205
+exeception_start 01-02-205
+exeception_end 01-02-205
+Null title+ wrong date 7930
+Number of title to clean 92070
+92070
+=================Working on chunk 19
+dataframe len 100000
+exeception_start 01-12-207
+exeception_start 01-07-200
+Null title+ wrong date 7941
+Number of title to clean 92059
+Exception stemming
+Exception stemming
+92059
+=================Working on chunk 20
+dataframe len 100000
+exeception_start 01-03-205
+Null title+ wrong date 8370
+Number of title to clean 91630
+91630
+=================Working on chunk 21
+dataframe len 100000
+Null title+ wrong date 6203
+Number of title to clean 93797
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+93797
+=================Working on chunk 22
+dataframe len 100000
+Null title+ wrong date 5991
+Number of title to clean 94009
+94009
+=================Working on chunk 23
+dataframe len 100000
+Null title+ wrong date 5446
+Number of title to clean 94554
+Exception stemming
+Exception stemming
+94554
+=================Working on chunk 24
+dataframe len 100000
+exeception_end 01-05-209
+exeception_end 05-06-205
+Null title+ wrong date 6039
+Number of title to clean 93961
+93961
+=================Working on chunk 25
+dataframe len 100000
+exeception_end 01-08-201
+exeception_end 01-07-202
+exeception_start 01-10-207
+Null title+ wrong date 6515
+Number of title to clean 93485
+93485
+=================Working on chunk 26
+dataframe len 100000
+exeception_start 01-03-200
+Null title+ wrong date 7844
+Number of title to clean 92156
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+92156
+=================Working on chunk 27
+dataframe len 100000
+Null title+ wrong date 7106
+Number of title to clean 92894
+Exception stemming
+Exception stemming
+92894
+=================Working on chunk 28
+dataframe len 100000
+exeception_start 01-10-202
+exeception_start 01-05-202
+exeception_end 01-05-202
+Null title+ wrong date 6771
+Number of title to clean 93229
+93229
+=================Working on chunk 29
+dataframe len 100000
+exeception_start 05-07-201
+Null title+ wrong date 6886
+Number of title to clean 93114
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+93114
+=================Working on chunk 30
+dataframe len 100000
+exeception_start 01-10-206
+exeception_end 01-10-206
+Null title+ wrong date 6918
+Number of title to clean 93082
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+93082
+=================Working on chunk 31
+dataframe len 100000
+exeception_end 01-10-209
+exeception_end 01-12-200
+exeception_end 01-05-200
+Null title+ wrong date 6626
+Number of title to clean 93374
+93374
+=================Working on chunk 32
+dataframe len 100000
+exeception_start 01-11-201
+Null title+ wrong date 5583
+Number of title to clean 94417
+94417
+=================Working on chunk 33
+dataframe len 100000
+Null title+ wrong date 5241
+Number of title to clean 94759
+Exception stemming
+Exception stemming
+94759
+=================Working on chunk 34
+dataframe len 100000
+exeception_start 01-03-205
+exeception_start 01-01-200
+Null title+ wrong date 4362
+Number of title to clean 95638
+Exception stemming
+Exception stemming
+95638
+=================Working on chunk 35
+dataframe len 100000
+exeception_start 01-04-200
+Null title+ wrong date 4014
+Number of title to clean 95986
+95986
+=================Working on chunk 36
+dataframe len 100000
+Null title+ wrong date 3646
+Number of title to clean 96354
+96354
+=================Working on chunk 37
+dataframe len 100000
+Null title+ wrong date 11650
+Number of title to clean 88350
+88350
+=================Working on chunk 38
+dataframe len 100000
+Null title+ wrong date 8770
+Number of title to clean 91230
+Exception stemming
+Exception stemming
+Exception stemming
+91230
+=================Working on chunk 39
+dataframe len 100000
+Null title+ wrong date 8428
+Number of title to clean 91572
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+91572
+=================Working on chunk 40
+dataframe len 100000
+exeception_start 01-06-201
+Null title+ wrong date 7207
+Number of title to clean 92793
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+92793
+=================Working on chunk 41
+dataframe len 100000
+Null title+ wrong date 7675
+Number of title to clean 92325
+Exception stemming
+Exception stemming
+92325
+=================Working on chunk 42
+dataframe len 100000
+Null title+ wrong date 6257
+Number of title to clean 93743
+93743
+=================Working on chunk 43
+dataframe len 100000
+Null title+ wrong date 6141
+Number of title to clean 93859
+Exception stemming
+Exception stemming
+93859
+=================Working on chunk 44
+dataframe len 100000
+Null title+ wrong date 5307
+Number of title to clean 94693
+94693
+=================Working on chunk 45
+dataframe len 100000
+Null title+ wrong date 5365
+Number of title to clean 94635
+94635
+=================Working on chunk 46
+dataframe len 100000
+Null title+ wrong date 5878
+Number of title to clean 94122
+Exception stemming
+Exception stemming
+94122
+=================Working on chunk 47
+dataframe len 100000
+Null title+ wrong date 5827
+Number of title to clean 94173
+94173
+=================Working on chunk 48
+dataframe len 100000
+Null title+ wrong date 5851
+Number of title to clean 94149
+94149
+=================Working on chunk 49
+dataframe len 100000
+Null title+ wrong date 5961
+Number of title to clean 94039
+Exception stemming
+Exception stemming
+Exception stemming
+94039
+=================Working on chunk 50
+dataframe len 100000
+Null title+ wrong date 5116
+Number of title to clean 94884
+94884
+=================Working on chunk 51
+dataframe len 100000
+exeception_start 01-06-205
+Null title+ wrong date 5896
+Number of title to clean 94104
+Exception stemming
+94104
+=================Working on chunk 52
+dataframe len 100000
+Null title+ wrong date 5631
+Number of title to clean 94369
+94369
+=================Working on chunk 53
+dataframe len 100000
+Null title+ wrong date 7149
+Number of title to clean 92851
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+92851
+=================Working on chunk 54
+dataframe len 100000
+exeception_start 01-11-203
+Null title+ wrong date 5122
+Number of title to clean 94878
+94878
+=================Working on chunk 55
+dataframe len 100000
+Null title+ wrong date 3844
+Number of title to clean 96156
+Exception stemming
+96156
+=================Working on chunk 56
+dataframe len 100000
+Null title+ wrong date 3566
+Number of title to clean 96434
+96434
+=================Working on chunk 57
+dataframe len 100000
+Null title+ wrong date 3798
+Number of title to clean 96202
+96202
+=================Working on chunk 58
+dataframe len 100000
+Null title+ wrong date 4848
+Number of title to clean 95152
+95152
+=================Working on chunk 59
+dataframe len 100000
+exeception_start 01-08-200
+Null title+ wrong date 5139
+Number of title to clean 94861
+Exception stemming
+Exception stemming
+94861
+=================Working on chunk 60
+dataframe len 100000
+Null title+ wrong date 682
+Number of title to clean 99318
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+99318
+=================Working on chunk 61
+dataframe len 100000
+Null title+ wrong date 539
+Number of title to clean 99461
+99461
+=================Working on chunk 62
+dataframe len 100000
+Null title+ wrong date 505
+Number of title to clean 99495
+99495
+=================Working on chunk 63
+dataframe len 100000
+Null title+ wrong date 494
+Number of title to clean 99506
+Exception stemming
+99506
+=================Working on chunk 64
+dataframe len 100000
+Null title+ wrong date 402
+Number of title to clean 99598
+Exception stemming
+Exception stemming
+99598
+=================Working on chunk 65
+dataframe len 100000
+Null title+ wrong date 513
+Number of title to clean 99487
+99487
+=================Working on chunk 66
+dataframe len 100000
+Null title+ wrong date 298
+Number of title to clean 99702
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+99702
+=================Working on chunk 67
+dataframe len 100000
+Null title+ wrong date 298
+Number of title to clean 99702
+99702
+=================Working on chunk 68
+dataframe len 100000
+Null title+ wrong date 336
+Number of title to clean 99664
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+Exception stemming
+99664
+=================Working on chunk 69
+dataframe len 100000
+Null title+ wrong date 250
+Number of title to clean 99750
+99750
+=================Working on chunk 70
+dataframe len 100000
+Null title+ wrong date 292
+Number of title to clean 99708
+Exception stemming
+Exception stemming
+99708
+=================Working on chunk 71
+dataframe len 70072
+Null title+ wrong date 138
+Number of title to clean 69934
+Exception stemming
+Exception stemming
+69934
+Null Title+wrong date 256675
+Other label count 3264538

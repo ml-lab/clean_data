@@ -23,6 +23,11 @@ def remove_after_character(word, special_character):
 	return word
 
 def add_suggest_word_to_dict(original_word, suggest_word):
+	""" Add a new word to dictionary. Dictionary will be save at file 'word_not_in_en.csv'
+	Input: 
+		Original_word: the word need to replace. Ex: Dev., Sr. 
+		Suggeest_word: The word use to replace the wrong word: Ex: Developer, Senoir
+	"""
 
 	words_not_in_en = pd.read_csv("words_not_in_en.csv")
 	words_not_in_en = words_not_in_en.drop('Unnamed: 0', 1)
@@ -58,9 +63,7 @@ def standard_job_title(original_job_title, suggest_words_dict):
 		suggest_title = suggest_title[:open_bracket] + suggest_title[(close_bracket + 1):]
 	
 	# Remove all word after "/", or "-"
-	print("Suggeset title 1: ", suggest_title)
 	suggest_title = remove_after_character(suggest_title, "/")
-	print("Suggeset title 2: ", suggest_title)
 	suggest_title = remove_after_character(suggest_title, "-")
 
 	
@@ -81,11 +84,5 @@ def standard_job_title(original_job_title, suggest_words_dict):
 	score = fuzz.ratio(original_title,suggest_title)
 	return (suggest_title, score)  
 
-
-
-# words_not_in_en = pd.read_csv("words_not_in_en.csv")
-# words_not_in_en = words_not_in_en.drop('Unnamed: 0', 1)
-
-# print(standard_job_title("Sr. Product Marketing Manager", words_not_in_en))
 	
    

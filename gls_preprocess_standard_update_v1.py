@@ -19,6 +19,7 @@ class gls_preprocess:
        self.school       = school
 
 
+
        
 ############################ DATE_TIME #####################
        
@@ -63,7 +64,8 @@ class gls_preprocess:
     #### standardize data
     # Length of data == 3 after split (mm-dd-yyyy)
         try:
-            if len(tem_1) == 3:     
+            # print("len(tem_1): ",len(tem_1) )
+            if len(tem_1) == 3:    
                 if any(c.isalpha() for c in str(data[i])):      # Data contains number and string
                     if all(re.sub('[^a-zA-Z]+', '', str(data[i])).lower() != x for x in month_of_year.keys()):
                         date_1 = "wrong_date"
@@ -117,7 +119,7 @@ class gls_preprocess:
                                          + "-"\
                                          + str(month_of_year[tem_1[0]])\
                                          + "-"\
-                                         + str(tem_1[1])
+                                         + str(tem_1[1]).zfill(2)
                                 date = [date_1,""]
                                 
                             elif len(tem_1[2]) == 4\
@@ -168,7 +170,7 @@ class gls_preprocess:
                                          + "-"\
                                          + str(month_of_year[tem_1[2]])\
                                          + "-"\
-                                         + str(tem_1[1])
+                                         + str(tem_1[1]).zfill(2)
                                 date = [date_1,""]
                                 
                             else:
@@ -180,6 +182,7 @@ class gls_preprocess:
                             date = [date_1,""]
                             
                 else:     # data contains only number                               # Case 4: number/number/number       
+                    # print("tem_1: ", tem_1)
                     if len(tem_1[0]) == 4\
                         and any(tem_1[1] == y_1 for y_1 in month_of_year.keys())\
                         and any(tem_1[2] == y_2 for y_2 in month_of_year.keys()):       # Case 4.1('yyyy-//-//', ex: 2014 02 02)
@@ -252,7 +255,16 @@ class gls_preprocess:
                         
                     elif len(tem_1[0]) <= 2\
                         and any(tem_1[0] == y_1 for y_1 in month_of_year.keys())\
-                        and any(tem_1[1] == y_2 for y_2 in month_of_year.keys()):  
+                        and any(tem_1[1] == y_2 for y_2 in month_of_year.keys()):
+
+                        
+                        # print("xxxxx")  
+                        # print("tem_1: ", tem_1)
+                        # print("tem_1[2]: ", tem_1[2])
+                        # print("end_year_of: ", end_year_of)
+                        # print("date_diff: ", date_diff)
+                        # print("if int(tem_1[2]) > end_year_of + date_diff: ", int(tem_1[2]) > end_year_of + date_diff)
+
 
                              # Case 4.7('dd-mm-yy', ex: 02 02 12)
                         if int(tem_1[2]) > end_year_of + date_diff:                         # Year: 1992 (not 2002)                
@@ -268,9 +280,13 @@ class gls_preprocess:
                                      + "-"\
                                      + str(start_year_of - 1)\
                                      + str(tem_1[2])
+
+                            # print("date1: ", date_1)
+                            # print("date2: ", date_2)
                             date = [date_1,date_2]
                             
                         else:                                                               # Year: 2002 (not 1902)
+                            
                             date_1 = str(day_of_month[tem_1[1]])\
                                      + "-"\
                                      + str(month_of_year[tem_1[0]])\
@@ -379,10 +395,10 @@ class gls_preprocess:
                                 date_1 = "01-"\
                                          + str(month_of_year[tem_1[0]])\
                                          + "-"\
-                                         + str(tem_1[1])
+                                         + str(tem_1[1]).zfill(2)
                                 date_2 = str(month_of_year[tem_1[0]])\
                                          + "-"\
-                                         + str(tem_1[1])
+                                         + str(tem_1[1]).zfill(2)
                                 date = [date_1,""]
                                 
                             elif len(tem_1[1]) == 2:                                             # Case 6.2('mm-yy', ex: mar 02)
@@ -391,22 +407,22 @@ class gls_preprocess:
                                              + str(month_of_year[tem_1[0]])\
                                              + "-"\
                                              + str(start_year_of - 1)\
-                                             + str(tem_1[1])
+                                             + str(tem_1[1]).zfill(2)
                                     date_2 = str(month_of_year[tem_1[0]])\
                                              + "-"\
                                              + str(start_year_of - 1)\
-                                             + str(tem_1[1])
+                                             + str(tem_1[1]).zfill(2)
                                     date = [date_1,date_2]
                                 else:                                                                # Year: 2002 (not 1902)
                                     date_1 = "01-"\
                                              + str(month_of_year[tem_1[0]])\
                                              + "-"\
                                              + str(start_year_of)\
-                                             + str(tem_1[1])
+                                             + str(tem_1[1]).zfill(2)
                                     date_2 = str(month_of_year[tem_1[0]])\
                                              + "-"\
                                              + str(start_year_of)\
-                                             + str(tem_1[1])
+                                             + str(tem_1[1]).zfill(2)
                                     date = [date_1,date_2]
                                     
                             else:
@@ -436,35 +452,38 @@ class gls_preprocess:
                         date_1 = "01-"\
                                  + str(month_of_year[tem_1[0]])\
                                  + "-"\
-                                 + str(tem_1[1])
+                                 + str(tem_1[1]).zfill(2)
                         date_2 = str(month_of_year[tem_1[0]])\
                                  + "-"\
-                                 + str(tem_1[1])
+                                 + str(tem_1[1]).zfill(2)
                         date = [date_1,date_2]
                         
                     elif len(tem_1[0]) <= 2\
                         and any(tem_1[0] == y_1 for y_1 in month_of_year.keys()):   # Case 7.3('mm-yy', ex: 02 02)
+                        
                         if int(tem_1[1]) > end_year_of + date_diff:                     # Year: 1992 (not 2002)
                             date_1 = "01-"\
                                      + str(month_of_year[tem_1[0]])\
                                      + "-"\
                                      + str(start_year_of - 1)\
-                                     + str(tem_1[1])
+                                     + str(tem_1[1]).zfill(2)
                             date_2 = str(month_of_year[tem_1[0]])\
                                      + "-"\
                                      + str(start_year_of - 1)\
-                                     + str(tem_1[1])
+                                     + str(tem_1[1]).zfill(2)
                             date = [date_1,date_2]
                         else:                                                           # Year: 2002 (not 1902)
+                            
                             date_1 = "01-"\
                                      + str(month_of_year[tem_1[0]])\
                                      + "-"\
                                      + str(start_year_of)\
-                                     + str(tem_1[1])
+                                     + str(tem_1[1]).zfill(2)
                             date_2 = str(month_of_year[tem_1[0]])\
                                      + "-"\
                                      + str(start_year_of)\
-                                     + str(tem_1[1])
+                                     + str(tem_1[1]).zfill(2)
+
                             date = [date_1,date_2]
                             
                     else:
@@ -1391,6 +1410,3 @@ class gls_preprocess:
 
 
 
-
-x = gls_preprocess('February 2002, 01-06-202, 1-1-015', None,None,None,None,None,None)
-print("Result: ", x.gls_date())
